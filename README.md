@@ -1,4 +1,4 @@
-## Repo to help you handle and upload images & files with best practices ( WebP supported )
+## Repo to help you handle and upload images & files with best practices (WebP supported)
 
 ### Pre requirements
 
